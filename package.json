@@ -1,4 +1,4 @@
-Enter{
+{
   "name": "telegram-bot-server",
   "version": "1.0.0",
   "description": "Simple Telegram Bot with Express",
